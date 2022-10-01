@@ -1,0 +1,196 @@
+
+
+
+/*Titles*/
+h1{
+	color : red;
+	font-size :30;
+}
+
+h2{
+	font-size:50;
+	font-family:Slab serif;
+	color:white;
+}
+
+h3{
+	font-size:50;
+	font-family:serif;
+		color:#00FFBB;
+		background-color:white;
+}
+
+h4{
+	font-size:50;
+	font-family:serif;
+		color:white;
+
+}
+
+h5{
+	font-size:50;
+	font-family:serif;
+		color:white;
+}
+
+h6{
+	font-size:30;
+	font-family:serif;
+		color:white;
+		background-color:pink;
+}
+
+h7{
+	font-size:70;
+	font-family:serif;
+		color:white;
+		background-color:grey;
+}
+
+h8{
+	font-size:70;
+	font-family:serif;
+		color:white;
+}
+
+h9{
+	font-size:70;
+	font-family:serif;
+	color:white;
+}
+
+h10{
+		font-size:70;
+	font-family:serif;
+	color:white;
+}
+
+h11{
+		font-size:100;
+	font-family:serif;
+	color:white;
+}
+
+h12{
+	font-size:70;
+	font-family:serif;
+	color:white;
+}
+
+
+
+/*table*/
+table{
+	width :100% ;
+	font-family: Arial;
+	font-size : 30;
+	width:1080;
+	background-color:pink;
+	
+}
+
+
+
+/*Paragraphs*/
+
+
+
+p{
+	font-size:30;
+	font-family:Arial;
+		color:white;
+	background-color:darkred;
+}
+
+p2{
+	font-size:30;
+	font-family:Arial;
+		color:white;
+		background-color:black;
+}
+
+p3{
+	font-size: 30;
+	font-family:Arial;
+		background-color:purple;
+		color:white;
+}
+
+p4{
+	font-size:30;
+	font-family:Arial;
+	color:white;
+	background-color:green;
+}
+
+p5{
+	font-size:30;
+	font-family:Arial;
+		background-color:blue;
+		color:white;
+}
+
+p6{
+	font-size:30;
+	font-family:Arial;
+		color:red;
+		background-color:yellow;
+}
+
+p7{
+	font-size:30;
+	font-family:Arial;
+		color:yellow;
+		background-color:brown;
+}
+
+p8{
+	font-size:30;
+	font-family:Arial;
+		color:white;
+		background-color:blue;
+}
+
+p9{
+	font-size:30;
+	font-family:Arial;
+		color:white;
+		background-color:green;
+}
+
+p10{
+	font-size:30;
+	font-family:Arial;
+		color:white;
+		background-color:brown;
+}
+
+p11{
+	font-size:30;
+	font-family:Arial;
+		color:white;
+		background-color:red;
+}
+
+p12{
+	color :white;
+	   background-color:orange;
+	   font-family:Arial;
+	   font-size:30;
+}
+
+
+i{
+	font-size:30;
+	font-family:Arial;
+		color:white;
+}
+
+a{
+	font-size:30;
+	color:white;
+	background-color:purple;
+}
+
+
+
